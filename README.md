@@ -1,16 +1,18 @@
-### Hi there 👋
+# Pierre-Henri Laurency
 
-<!--
-**Payhache/Payhache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour à tous, je suis Pierre-Henri, actuellement en reconversion afin de vivre une nouvelle vie dans le domaine du developpement web !
+Je cherche actuellement un stage non rémunéré du _23 septembre 2020 au 3 décembre 2020_ . Si vous avez un projet ou/et que mon profil vous interresse
+contactez moi !
 
-Here are some ideas to get you started:
+## Mes valeurs :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ❤ Rigoureux et digne de confiance 
+* 👌 Pragmatique et authentique
+* 👍 Aime apprendre et se remettre en cause
+* 👀 Curieux et ouvert d'esprit
+
+## Me contacter :
+
+* Linkedin : https://www.linkedin.com/in/pierre-henri-laurency-229a68197/
+* Mon site perso : https://pierrehenrilaurency.com/
+* twitter : https://twitter.com/Phenri_L
