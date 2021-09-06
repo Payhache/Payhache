@@ -2,8 +2,8 @@
 
 # Pierre-Henri Laurency
 
-Bonjour à tous, je suis Pierre-Henri, actuellement en reconversion afin de vivre une nouvelle vie dans le domaine du développement web !
-Je cherche  un stage non rémunéré du _23 septembre 2020 au 3 décembre 2020_ . Si vous avez un projet ou/et que mon profil vous intéresse
+Bonjour à tous, je suis Pierre-Henri. Actuellement développeur, chez SNCF. 
+Si vous avez un projet ou/et que mon profil vous intéresse
 contactez moi !
 
 ## Mes valeurs :
