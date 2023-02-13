@@ -2,9 +2,7 @@
 
 # Pierre-Henri Laurency
 
-Bonjour à tous, je suis Pierre-Henri. Actuellement développeur, chez SNCF. 
-Si vous avez un projet ou/et que mon profil vous intéresse
-contactez moi !
+Bonjour à tous, je suis Pierre-Henri. Actuellement développeur, NewsBridge. 
 
 ## Mes valeurs :
 
