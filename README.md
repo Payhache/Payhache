@@ -2,7 +2,7 @@
 
 # Pierre-Henri Laurency
 
-Bonjour à tous, je suis Pierre-Henri. Actuellement développeur, NewsBridge. 
+Bonjour à tous, je suis Pierre-Henri. Actuellement développeur, chez Moments Lab. 
 
 ## Mes valeurs :
 
